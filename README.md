@@ -4,4 +4,4 @@ This project attempts to analyse and predict the employability of various studen
 
 ## **Result**
 
-<center><img src="evaluation metrics final/result.png" width=425px /></center>
+<center><img src="evaluation metrics final.png" width=425px /></center>
